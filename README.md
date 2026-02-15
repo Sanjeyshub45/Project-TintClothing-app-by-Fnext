@@ -1,7 +1,13 @@
-# Tint Clothing POS
+# Tint Clothing POS (App)
 
 A modern, Flutter-based Point of Sale (POS) and Inventory Management system designed specifically for Tint Clothing. This application streamlines billing, stock tracking, and sales reporting.
 
+## UI Lookups :
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="images/image.png" width="180"> | <img src="images/image%20copy.png" width="180"> | <img src="images/image%20copy%202.png" width="180"> | <img src="images/image%20copy%203.png" width="180"> |
+| <img src="images/image%20copy%204.png" width="180"> | <img src="images/image%20copy%205.png" width="180"> | <img src="images/image%20copy%206.png" width="180"> | &nbsp; |
 
 ## Features
 
